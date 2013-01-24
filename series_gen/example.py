@@ -5,3 +5,5 @@ for i in series.adder():
 
     if i > 2:
         break
+
+# sets i to series.n and breaks when n equals 3

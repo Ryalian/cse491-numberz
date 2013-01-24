@@ -10,8 +10,8 @@ def test2():
     i = iter(f)
     i.next()
     assert i.next() == 3
-
-def test2():
+    
+def test3():
     f = fib.fib()
     i = iter(f)
     i.next()
